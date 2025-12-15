@@ -224,3 +224,5 @@ None,,,None
 direction,,,Direction
 step,,,Step
 radio,,,Radio
+CAN,,,Channel Access Number
+canRxCheck,,,Channel Access Number RX Check
